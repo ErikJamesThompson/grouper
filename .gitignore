@@ -32,4 +32,8 @@ server/config/config.js
 .idea/
 .vscode
 .DS_Store
+<<<<<<< HEAD
 client/config.js
+=======
+client/config.js
+>>>>>>> 63cc41c863dc808f27b99122d94d68b4570a3d83
